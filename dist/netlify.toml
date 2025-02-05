@@ -1,0 +1,10 @@
+[[redirects]]
+  from = "/api/*"
+  to = "http://45.90.13.151/api/*"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
