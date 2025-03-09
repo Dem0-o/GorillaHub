@@ -5,12 +5,5 @@
     "changes": [
       "First release of Flake 😍"
     ]
-  },
-  {
-    "version": "1.0.1",
-    "date": "04/05/2025",
-    "changes": [
-      "First release of Flake 😍"
-    ]
   }
 ]
