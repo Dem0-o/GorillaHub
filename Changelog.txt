@@ -1,0 +1,9 @@
+[
+  {
+    "version": "1.0.0",
+    "date": "04/05/2025",
+    "changes": [
+      "First release of Flake 😍"
+    ]
+  }
+]
